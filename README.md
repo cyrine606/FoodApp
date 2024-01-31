@@ -10,9 +10,9 @@ this app reshapes how we explore culinary delights. From discovering top spots t
   <div>
     <table>
       <tr>
-        <td><img src="./img/app.jpeg" width=270 height=480></td>
-        <td><img src="./img/restaurants.jpeg" width=270 height=480></td>
-        <td><img src="./img/restaurant.jpeg" width=270 height=480></td>
+        <td><img src="./img/app.jpeg" width=270 height=500></td>
+        <td><img src="./img/restaurants.jpeg" width=270 height=500></td>
+        <td><img src="./img/restaurant.jpeg" width=270 height=500></td>
       </tr>
    </table>
   </div>
@@ -20,9 +20,9 @@ this app reshapes how we explore culinary delights. From discovering top spots t
   <div>
     <table>
       <tr>
-        <td><img src="./img/menu.jpeg" width=270 height=480></td>
-        <td><img src="./img/item.jpeg" width=270 height=480></td>
-        <td><img src="./img/orders.png" width=270 height=480></td>
+        <td><img src="./img/menu.jpeg" width=270 height=500></td>
+        <td><img src="./img/item.jpeg" width=270 height=500></td>
+        <td><img src="./img/orders.png" width=270 height=500></td>
       </tr>
    </table>
   </div>
@@ -30,9 +30,9 @@ this app reshapes how we explore culinary delights. From discovering top spots t
   <div>
     <table>
       <tr>
-        <td><img src="./img/orders.png" width=270 height=480></td>
-        <td><img src="./img/shoppingcart.jpeg" width=270 height=480></td>
-        <td><img src="./img/checkout.png" width=270 height=480></td>
+        <td><img src="./img/orders.png" width=270 height=500></td>
+        <td><img src="./img/shoppingcart.jpeg" width=270 height=500></td>
+        <td><img src="./img/checkout.png" width=270 height=500></td>
       </tr>
    </table>
   </div>
@@ -40,9 +40,9 @@ this app reshapes how we explore culinary delights. From discovering top spots t
   <div>
     <table>
       <tr>
-        <td><img src="./img/userprofile.jpeg" width=270 height=480></td>
-        <td><img src="./img/signup.png" width=270 height=480></td>
-        <td><img src="./img/restaurantsList.jpeg" width=270 height=480></td>
+        <td><img src="./img/userprofile.jpeg" width=270 height=500></td>
+        <td><img src="./img/signup.png" width=270 height=500></td>
+        <td><img src="./img/restaurantsList.jpeg" width=270 height=500></td>
       </tr>
    </table>
   </div>
