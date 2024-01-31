@@ -5,16 +5,47 @@ this app reshapes how we explore culinary delights. From discovering top spots t
 #learnByCoding
 
 ## UIs
-![alt app](./img/app.png)
-![alt restaurants](./img/restaurants.png)
-![alt restaurant](./img/restaurant.png)
-![alt menu](./img/menu.png)
-![alt item](./img/item.png)
-![alt orders](./img/orders.png)
-![alt shoppingcart](./img/shoppingcart.png)
-![alt checkout](./img/checkout.png)
-![alt userprofile](./img/userprofile.png)
-![alt signup](./img/signup.png)
+
+<div>
+  <div>
+    <table>
+      <tr>
+        <td><img src="./img/app.png" width=270 height=480></td>
+        <td><img src="./img/restaurants.png" width=270 height=480></td>
+        <td><img src="./img/restaurant.png" width=270 height=480></td>
+      </tr>
+   </table>
+  </div>
+
+  <div>
+    <table>
+      <tr>
+        <td><img src="./img/menu.png" width=270 height=480></td>
+        <td><img src="./img/item.png" width=270 height=480></td>
+        <td><img src="./img/orders.png" width=270 height=480></td>
+      </tr>
+   </table>
+  </div>
+
+  <div>
+    <table>
+      <tr>
+        <td><img src="./img/orders.png" width=270 height=480></td>
+        <td><img src="./img/shoppingcart.png" width=270 height=480></td>
+        <td><img src="./img/checkout.png" width=270 height=480></td>
+      </tr>
+   </table>
+  </div>
+
+  <div>
+    <table>
+      <tr>
+        <td><img src="./img/userprofile.png" width=270 height=480></td>
+        <td><img src="./img/signup.png" width=270 height=480></td>
+      </tr>
+   </table>
+  </div>
+</div>
 
 
 ## Getting Started
