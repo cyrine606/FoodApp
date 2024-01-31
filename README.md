@@ -1,6 +1,6 @@
 # FoodApp
 
-Embark into a flavorful journey with a mobile app I crafted using Flutter & Dart. Born from my coding adventures as I first delved into the world of Flutter, 
+Embark into a flavorful journey with a mobile app I crafted using Flutter & Dart. Born from my personal coding adventures, as I first delved into the world of Flutter, 
 this app reshapes how we explore culinary delights. From discovering top spots to browsing delicious menus, it's your go-to destination for dining excellence.
 #learnByCoding
 
